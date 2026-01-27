@@ -21,7 +21,7 @@ jobs:
           python-version: '3.x'
 
       # CINTENT >> INSERT_CINTENT
-      - uses: JavidDitty/setup-cintent@79d20aaa5fcb487e57e09d40e7b3b62fd53417e8
+      - uses: JavidDitty/setup-cintent@3e5b2faf83a2ad32c22a1cd0f86f5f20ea53a5ab
 
       - name: Install Ruff
         run: |
